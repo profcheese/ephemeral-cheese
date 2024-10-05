@@ -1,6 +1,7 @@
 ---
 title: "coding-and-language"
 date: 2024-10-03
+catagory: digital-journey
 ---
 i enter git hub as a scholar of communication, meaning that i am interested in how we use language as a network of shared meaning. external checks and verification. intersubjectivity. the phenomenological experience of learning.
 sitting in KAIC 100, I find myself being asked to "produce content" but I don't know what kind of content i want to make, nor do i really know what to do.
